@@ -7,8 +7,8 @@
 ## Code and Resources Used 
 **Python Version:** 3.11  
 **Packages:** datetime, unittest, ABC 
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Scraper Github:** https://vagabond-systems/forage-lyft-starter-repo 
+**Scraper Website:** [https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905 ](https://www.theforage.com/virtual-experience/xSw9echtixLAoPdsH/lyft/lyft-back-end-engineering-virtual-experience-program/) 
 **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## YouTube Project Walk-Through
