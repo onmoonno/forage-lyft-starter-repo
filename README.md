@@ -1,12 +1,12 @@
-# Lyft Back-End Engineer : Project Overview 
+# Lyft Back-End Engineer: Project Overview 
 * Completed the job simulation, and took over a project for the Lyft Rentals team, Come up with a clean design for an existing, unfinished component.
 * Drafted a UML class diagram representing a new reorganized architecture.
-* Refactored the codebase with Factory and Strategy design pattern for multiple product creation and manipulation.
+* Refactored the codebase with Factory and Strategy design patterns for multiple product creation and manipulation.
 * Implemented unit tests and added new functionality using test-driven development.
 
 ## Code and Resources Used 
 **Python Version:** 3.11  
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle  
+**Packages:** datetime, abc, 
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
 **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
