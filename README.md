@@ -5,31 +5,14 @@
 * Implemented unit tests and added new functionality using test-driven development.
 
 ## Code and Resources Used 
+
 **Python Version:** 3.11  
-**Packages:** datetime, unittest, ABC 
+
+**Packages:** datetime, unittest, ABC
+
 **Scraper Github:** https://vagabond-systems/forage-lyft-starter-repo 
-**Scraper Website:** [https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905 ](https://www.theforage.com/virtual-experience/xSw9echtixLAoPdsH/lyft/lyft-back-end-engineering-virtual-experience-program/) 
-**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
-## YouTube Project Walk-Through
-https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
-
-## Web Scraping
-Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
-*	Job title
-*	Salary Estimate
-*	Job Description
-*	Rating
-*	Company 
-*	Location
-*	Company Headquarters 
-*	Company Size
-*	Company Founded Date
-*	Type of Ownership 
-*	Industry
-*	Sector
-*	Revenue
-*	Competitors 
+**Scraper Website:** https://www.theforage.com/virtual-experience
 
 ## Data Cleaning
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
