@@ -17,9 +17,7 @@
 ## System Design
 Class diagram of the newly designed system with Factory and Strategy design parttern.
 
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+![alt text](https://github.com/onmoonno/forage-lyft-starter-repo/blob/main/Class%20Diagram.png)
 
 ## Model Building 
 
